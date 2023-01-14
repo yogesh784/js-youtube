@@ -1,1 +1,1 @@
-console.log('variable');
+console.log("variable");
